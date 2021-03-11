@@ -1,0 +1,14 @@
+.DS_Store
+~$*
+*.tmp
+*.jar
+
+# Python and Jupyter:
+__pycache__/
+.ipynb_checkpoints/
+
+# Videos:
+*.mp4
+
+# Saved model object files:
+*.h5
